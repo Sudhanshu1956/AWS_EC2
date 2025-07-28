@@ -1,5 +1,5 @@
 # AWS_EC2
-AWS EC2 Project 
+AWS EC2 Project involves-
 • Launching Instances and perform hosting in Windows and Linux. 
 • AMI (Amazon Machine Image) creation and launching Instances 
   from AMI. 
